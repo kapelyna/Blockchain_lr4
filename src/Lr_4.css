@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #vote-form {
+    margin-top: 20px;
+  }
+  
+  #candidate {
+    margin-right: 10px;
+  }
+  
+  #results {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
